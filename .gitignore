@@ -1,0 +1,8 @@
+# Install Files #
+node_modules/
+
+# Log Files #
+*.log
+
+# Mac Files #
+.DS_Store
